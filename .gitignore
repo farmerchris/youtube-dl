@@ -34,3 +34,4 @@ test/testdata
 youtube-dl.zsh
 .idea
 .idea/*
+.github/ISSUE_TEMPLATE.md
